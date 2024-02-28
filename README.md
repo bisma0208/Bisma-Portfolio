@@ -1,9 +1,10 @@
 <img src="images/svg/header_en.svg"></img>
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:Machine Learning  &nbsp;Bachelor's In Computer Science. \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Enthusiastic about science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem-solving and automating daily tasks.\
+&nbsp;&nbsp;&nbsp;Machine Learning  
+&nbsp;Bachelor's In Computer Science.\
+&nbsp;Enthusiastic about science and innovation.\
+&nbsp;Passionate about problem-solving and automating daily tasks.\
 
 <p align="center">
   <a href="mailto:bismaqamar2@gmail.com?subject=Olá%20Bisma%20Qamar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,11 +41,6 @@
 
 <hr/>
 
-<p align="center">
- <a href="https://ko-fi.com/X8X48056Q">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
-</p>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=bisma0208&style=plastic&label=Views"><img>
