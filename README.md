@@ -1,10 +1,10 @@
 <img src="images/svg/header_en.svg"></img>
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;Machine Learning  
+&nbsp;Machine Learning  
 &nbsp;Bachelor's In Computer Science.\
 &nbsp;Enthusiastic about science and innovation.\
-&nbsp;Passionate about problem-solving and automating daily tasks.\
+&nbsp;Passionate about problem-solving and automating daily tasks
 
 <p align="center">
   <a href="mailto:bismaqamar2@gmail.com?subject=Olá%20Bisma%20Qamar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: Main tech knowledge</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -24,8 +24,14 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-%23FF6F61.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-%23217346.svg?&style=flat&logo=opencv&logoColor=white)&nbsp;
+![Image Processing](https://img.shields.io/badge/IMAGE_PROCESSING-%2343853D.svg?&style=flat&logo=image&logoColor=white)&nbsp;
+![YOLO](https://img.shields.io/badge/YOLO-%23FFA500.svg?&style=flat)&nbsp;
+![Darknet](https://img.shields.io/badge/DARKNET-%23000000.svg?&style=flat)&nbsp;
 
 </details>
+
 
 
 <details>
