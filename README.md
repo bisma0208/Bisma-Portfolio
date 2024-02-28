@@ -1,7 +1,7 @@
 <img src="images/svg/header_en.svg"></img>
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;Machine Learning  
+&nbsp;Machine Learning  
 &nbsp;Bachelor's In Computer Science.\
 &nbsp;Enthusiastic about science and innovation.\
 &nbsp;Passionate about problem-solving and automating daily tasks
